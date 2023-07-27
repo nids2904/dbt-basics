@@ -1,0 +1,7 @@
+
+target/
+dbt_packages/
+logs/
+profile/.user.yml
+.idea
+
